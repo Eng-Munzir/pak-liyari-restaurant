@@ -1,5 +1,7 @@
 # Pak Liyari Restaurant — Website
 
+![Desktop preview](preview-desktop.png)
+
 A static, single-page website for Pak Liyari Restaurant (Al Nahda, Dubai). No build step is needed.
 
 ## Files
